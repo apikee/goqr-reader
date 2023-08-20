@@ -10,6 +10,7 @@ const (
 	qrPerspectiveParams = 8
 )
 
+// Love it!
 type qrPixelType = uint8
 
 type point struct {
